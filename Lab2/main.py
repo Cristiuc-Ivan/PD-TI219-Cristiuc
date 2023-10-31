@@ -6,6 +6,7 @@ from selenium.webdriver.common.by import By
 from bs4 import BeautifulSoup
 from urllib.request import urlretrieve
 
+
 def DownloadImageFromYandex(query, folder, num_images):
     os.makedirs(folder, exist_ok=True)
 
@@ -46,6 +47,7 @@ def DownloadImageFromYandex(query, folder, num_images):
             print(f"Ошибка при загрузке изображения: {e}")
 
     driver.quit()
+
 
 DownloadImageFromYandex("rose", "dataset/rose", 1000)
 

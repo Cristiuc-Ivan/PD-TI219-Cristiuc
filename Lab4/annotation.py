@@ -12,7 +12,3 @@ def create_annotation(dataset_path, output_file):
                 relative_path = os.path.relpath(absolute_path, start=dataset_path)
                 class_label = os.path.basename(root)
                 writer.writerow([absolute_path, relative_path, class_label])
-
-dataset_path = 'C:/Users/ivanc/PycharmProjects/Lab2/dataset/rose'
-output_file = 'annotation.csv'
-create_annotation(dataset_path, output_file)

@@ -1,0 +1,11 @@
+* {
+    font-family: "Roboto", sans-serif;
+}
+
+body {
+    background: #FF5F6D; /* all browsers */
+    background: -webkit-linear-gradient(to right, #FFC371, #FF5F6D); /* Chrome 10-25 */
+    background: linear-gradient(to right, #FFC371, #FF5F6D); /* W3C, IE 10+/ Edge, Firefox*/
+
+    color: white;
+}

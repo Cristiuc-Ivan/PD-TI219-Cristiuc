@@ -1,5 +1,6 @@
 import os
 
+
 def get_next_instance(class_label, dataset_dir):
     file_paths = os.listdir(dataset_dir)
     for a in file_paths:
@@ -7,6 +8,7 @@ def get_next_instance(class_label, dataset_dir):
 
     return print("None")
 
+
 label = "rose"
-dir = 'C:/Users/ivanc/PycharmProjects/Dataset_copy'
-get_next_instance(label, dir)
+direct = 'C:/Users/ivanc/PycharmProjects/Lab2/dataset/rose'
+get_next_instance(label, direct)
