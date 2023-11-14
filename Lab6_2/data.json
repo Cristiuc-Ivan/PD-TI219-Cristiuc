@@ -1,0 +1,20 @@
+[
+    {"Absolute Path": "C:/Users/ivanc/PycharmProjects/Lab2/dataset/rose\\0000.jpg", "Relative Path": "0000.jpg", "Class Label": "rose"},
+    {"Absolute Path": "C:/Users/ivanc/PycharmProjects/Lab2/dataset/rose\\0001.jpg", "Relative Path": "0001.jpg", "Class Label": "rose"},
+    {"Absolute Path": "C:/Users/ivanc/PycharmProjects/Lab2/dataset/rose\\0002.jpg", "Relative Path": "0002.jpg", "Class Label": "rose"},
+	{"Absolute Path": "C:/Users/ivanc/PycharmProjects/Lab2/dataset/rose\\0003.jpg", "Relative Path": "0003.jpg", "Class Label": "rose"},
+	{"Absolute Path": "C:/Users/ivanc/PycharmProjects/Lab2/dataset/rose\\0004.jpg", "Relative Path": "0004.jpg", "Class Label": "rose"},
+	{"Absolute Path": "C:/Users/ivanc/PycharmProjects/Lab2/dataset/rose\\0005.jpg", "Relative Path": "0005.jpg", "Class Label": "rose"},
+	{"Absolute Path": "C:/Users/ivanc/PycharmProjects/Lab2/dataset/rose\\0006.jpg", "Relative Path": "0006.jpg", "Class Label": "rose"},
+	{"Absolute Path": "C:/Users/ivanc/PycharmProjects/Lab2/dataset/rose\\0007.jpg", "Relative Path": "0007.jpg", "Class Label": "rose"},
+	{"Absolute Path": "C:/Users/ivanc/PycharmProjects/Lab2/dataset/rose\\0008.jpg", "Relative Path": "0008.jpg", "Class Label": "rose"},
+	{"Absolute Path": "C:/Users/ivanc/PycharmProjects/Lab2/dataset/rose\\0009.jpg", "Relative Path": "0009.jpg", "Class Label": "rose"},
+	{"Absolute Path": "C:/Users/ivanc/PycharmProjects/Lab2/dataset/rose\\0010.jpg", "Relative Path": "0010.jpg", "Class Label": "rose"},
+	{"Absolute Path": "C:/Users/ivanc/PycharmProjects/Lab2/dataset/rose\\0011.jpg", "Relative Path": "0011.jpg", "Class Label": "rose"},
+	{"Absolute Path": "C:/Users/ivanc/PycharmProjects/Lab2/dataset/rose\\0012.jpg", "Relative Path": "0012.jpg", "Class Label": "rose"},
+	{"Absolute Path": "C:/Users/ivanc/PycharmProjects/Lab2/dataset/rose\\0013.jpg", "Relative Path": "0013.jpg", "Class Label": "rose"},
+	{"Absolute Path": "C:/Users/ivanc/PycharmProjects/Lab2/dataset/rose\\0014.jpg", "Relative Path": "0014.jpg", "Class Label": "rose"},
+	{"Absolute Path": "C:/Users/ivanc/PycharmProjects/Lab2/dataset/rose\\0015.jpg", "Relative Path": "0015.jpg", "Class Label": "rose"},
+	{"Absolute Path": "C:/Users/ivanc/PycharmProjects/Lab2/dataset/rose\\0016.jpg", "Relative Path": "0016.jpg", "Class Label": "rose"},
+	{"Absolute Path": "C:/Users/ivanc/PycharmProjects/Lab2/dataset/rose\\0017.jpg", "Relative Path": "0017.jpg", "Class Label": "rose"}
+]
